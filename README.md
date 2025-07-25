@@ -4,3 +4,4 @@ télécharger
 extraire
 ensure dans votre cfg
 configurable facilement a lire le document text 
+pour tout support : lebg29bzh sur discord
